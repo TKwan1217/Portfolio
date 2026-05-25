@@ -14,7 +14,7 @@ text { font-family: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMac
 </defs>
 
 <text class="title" x="40" y="40">RPA 마이그레이션 아키텍처</text>
-<text class="subtitle" x="40" y="58">롯데 하이마т · Automation Anywhere → Power Automate Desktop · 13건</text>
+<text class="subtitle" x="40" y="58">롯데 하이마트 · Automation Anywhere → Power Automate Desktop · 13건</text>
 
 <text class="ts" x="40" y="92">Before · Automation Anywhere</text>
 <rect x="40" y="100" width="260" height="200" rx="12" fill="#FAEEEE" stroke="#C44545" stroke-width="0.5"/>
